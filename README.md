@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husamettin</h1>
 <h3 align="center">I only use GitHub for project tracking. For communication, you can reach me at husamettin@ad.page</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <!--
 **husowisback/husowisback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
